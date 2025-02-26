@@ -1,3 +1,8 @@
+namespace GuATraining.Sales.Customer;
+
+using Microsoft.Sales.Customer;
+using GuATraining.Books.Book;
+
 tableextension 50201 "BSBC Customer" extends Customer
 {
     fields

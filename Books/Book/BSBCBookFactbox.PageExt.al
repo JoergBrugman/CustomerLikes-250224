@@ -1,3 +1,5 @@
+namespace GuATraining.Books.Book;
+
 pageextension 50200 "BSBC Book Factbox" extends "BSB Book Factbox"
 {
     layout

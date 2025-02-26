@@ -1,3 +1,7 @@
+namespace GuATraining.Books.Book;
+
+using Microsoft.Sales.Customer;
+
 tableextension 50200 "BSBC Book" extends "BSB Book"
 {
     fields

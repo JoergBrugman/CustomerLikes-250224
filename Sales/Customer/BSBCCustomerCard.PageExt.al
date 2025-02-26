@@ -1,3 +1,8 @@
+namespace GuATraining.Sales.Customer;
+
+using Microsoft.Sales.Customer;
+
+
 pageextension 50201 "BSBC Customer Card" extends "Customer Card"
 {
     actions
